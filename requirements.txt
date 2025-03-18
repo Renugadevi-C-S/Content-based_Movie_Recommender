@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+numpy
+pandas
+requests
+tmdbv3api
+beautifulsoup4
+youtube_dl
